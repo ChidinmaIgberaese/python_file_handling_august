@@ -39,3 +39,5 @@ os.remove("filenamings.txt")
 # import os means import operating system that will be used to remove the file.
 
 so once the code is run, the filenamings.txt will be removed. so if you are not seeing the file, it means it has been deleted. to test yours, open a file named filenamings.txt and run it again.
+
+# A real world application for this is a simple To-Do List Web App project that involves CRUD (Create, Read, Update, Delete) operations.
